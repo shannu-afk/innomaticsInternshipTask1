@@ -29,7 +29,7 @@ The HTML structure is organized into distinct sections with clear headings:
 3. Click the "Submit" button to add the entry to the budget summary table.
 
 ### View Budget
-1. Click the "View Budget" button to toggle the visibility of the budget summary table.
+1. Click the "View Budget" button(Twice) to toggle the visibility of the budget summary table.
 
 ### Edit/Delete Entry
 1. Each row in the budget summary table includes "Edit" and "Delete" buttons.
@@ -43,4 +43,4 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [your-email@example.com].
+For any questions or feedback, please contact [K>SHANMUKH] at [kodalishanmukh6thfinger@gmail.com].
